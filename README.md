@@ -12,8 +12,9 @@ getProduct :
 
 http://localhost:8081/product/1
 
+![eu1](https://user-images.githubusercontent.com/9671419/81118327-4c5f0600-8f46-11ea-9e01-372f6ab786c7.PNG)
 
-getProdcuts :
+getProducts :
 
 http://localhost:8081/products?id=1
 
