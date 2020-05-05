@@ -7,3 +7,14 @@
 ## Register Product service for client discovery
 
 ![eureka_2](https://user-images.githubusercontent.com/9671419/81118073-d9ee2600-8f45-11ea-91c4-ad3ebe7f079f.PNG)
+
+getProduct :
+
+http://localhost:8081/product/1
+
+
+getProdcuts :
+
+http://localhost:8081/products?id=1
+
+
