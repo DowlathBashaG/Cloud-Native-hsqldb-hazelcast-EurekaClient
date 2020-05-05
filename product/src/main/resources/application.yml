@@ -1,0 +1,20 @@
+server:
+    port: 8081
+eureka:
+  instance:
+     leaseRenewalIntervalInSeconds: 5
+
+
+management:
+    endpoints:
+       web:
+         exposure:
+             include: "*"
+
+logging:
+   level:
+     org.hibernate:
+       tool:
+         hbm2ddl: DEBUG
+       SQL: DEBUG
+
